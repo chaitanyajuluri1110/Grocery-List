@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chaitanyajuluri1110/Grocery-List/static/css/main.1da58946.css",
+    "main.js": "/chaitanyajuluri1110/Grocery-List/static/js/main.2f3f7bd3.js",
+    "static/js/453.8060ab63.chunk.js": "/chaitanyajuluri1110/Grocery-List/static/js/453.8060ab63.chunk.js",
+    "index.html": "/chaitanyajuluri1110/Grocery-List/index.html",
+    "main.1da58946.css.map": "/chaitanyajuluri1110/Grocery-List/static/css/main.1da58946.css.map",
+    "main.2f3f7bd3.js.map": "/chaitanyajuluri1110/Grocery-List/static/js/main.2f3f7bd3.js.map",
+    "453.8060ab63.chunk.js.map": "/chaitanyajuluri1110/Grocery-List/static/js/453.8060ab63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da58946.css",
+    "static/js/main.2f3f7bd3.js"
+  ]
+}
